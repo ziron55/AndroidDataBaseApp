@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Baza telefonow</string>
+    <string name="add_string">Dodaj:</string>
+    <string name="producent">Producent:</string>
+    <string name="model">Model:</string>
+    <string name="androidVersion">Wersja androida:</string>
+    <string name="wwwAddress">WWW</string>
+    <string name="cancel">Anuluj</string>
+    <string name="save">Zapisz</string>
+    <string name="emptyText">Brak danych do wyswietlenia!</string>
+    <string name="actionDelete">Usun</string>
+    <string name="choiceString">Wybrano:</string>
+
+</resources>
